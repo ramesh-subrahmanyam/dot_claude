@@ -12,7 +12,7 @@ When invoked, this command will:
    - Dead code
    - Duplicated functions
    - overlap and duplication across files
-3. **Refactir** Abstract duplicated code and/or functionality.
+3. **Refactor** Abstract duplicated code and/or functionality.
 
 4. **Plan** - Write a comprehensive plan to clean up the codebase. If there are no important changes to make, say so and stop.
 
